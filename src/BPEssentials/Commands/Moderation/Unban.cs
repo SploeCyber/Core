@@ -4,7 +4,7 @@ using BrokeProtocol.Entities;
 
 namespace BPEssentials.Commands
 {
-    public class Unban : Command
+    public class UnBan : Command
     {
         public void Invoke(ShPlayer player, string targetAccount)
         {
